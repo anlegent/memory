@@ -23,3 +23,12 @@ body {
   padding: 20px;
   background-color: cornflowerblue;
 }
+
+body {
+  background-color: black;
+}
+
+.flipped {
+  background-color: transparent;
+  transition: background-color 0.8s ease;
+}
